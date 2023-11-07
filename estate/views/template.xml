@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <template id="index">
+
+        <title>estate</title>
+        <t t-call="website.layout" name="REAL ESTATE" >
+            <div class = "container"> 
+                Real estate Properties!!
+            </div>
+    
+        </t>
+
+    </template>
+
+   
+
+
+
+
+
+</odoo>
+
